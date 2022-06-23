@@ -1,5 +1,5 @@
 # Cursor-Tracking Eyes
-Tracking of MBTA 1 Busses between MIT and Harvard
+Tracking of mouse cursor to update virtual eyes
 
 ![Screenshot of eyes looking down and right](demo.png)
 
