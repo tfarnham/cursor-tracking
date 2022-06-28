@@ -10,9 +10,13 @@ Collects mouse cursor position each time the cursor is moved and updates the loc
 Download all files then open index.html in your browser
 
 ## Roadmap of future improvements
-Compensate for the width between the eyes (left and right should point slightly different)
+Nice next steps include:
 
-Reactions to unusual user events (make the eyes "dizzy" after moving circles
+- Compensating for the width between the eyes (left and right should point slightly different)
+
+- Creating eactions to unusual user events (make the eyes "dizzy" after moving circles
+
+- Allowing the user to change the color of the eyes/face
 
 ## License
 
