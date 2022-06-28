@@ -4,7 +4,7 @@ Tracking of mouse cursor to update virtual eyes
 ![Screenshot of eyes looking down and right](demo.png)
 
 ## Description of the project
-Collects mouse cursor position each time the cursor is moved and updates the location of "pupils" of two eyes to look toward the cursor
+Collects mouse cursor position each time the cursor is moved and updates the location of "pupils" of two eyes to look toward the cursor. Uses CSS primitive objects to form the rudimentary shapes and then Javascript to control their motion
 
 ## How to Run
 Download all files then open index.html in your browser
